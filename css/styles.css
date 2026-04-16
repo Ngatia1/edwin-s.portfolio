@@ -545,7 +545,7 @@ input[type='checkbox'] {
     white-space: nowrap;
     overflow: hidden;
     border-right: 4px solid #1de2d1;
-    -webkit-animation: typing 8s steps(20) infinite;
+    -webkit-animation: typing 8s steps(18) infinite;
 }
 @-webkit-keyframes typing{
     0%{
