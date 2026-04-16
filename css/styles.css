@@ -540,13 +540,12 @@ input[type='checkbox'] {
 .header .h1-large.two .typing{
 	display: inline-block;
 	font-family: 'Courier New', Courier, monospace;
-	font-size: 32px;
 	text-align: center;
 	color: #adff2f;
     white-space: nowrap;
     overflow: hidden;
     border-right: 4px solid #1de2d1;
-    -webkit-animation: typing 8s steps(29) infinite;
+    -webkit-animation: typing 8s steps(20) infinite;
 }
 @-webkit-keyframes typing{
     0%{
